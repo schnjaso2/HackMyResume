@@ -75,7 +75,7 @@
     "pinkie-promise": "^2.0.0",
     "printf": "^0.2.3",
     "recursive-readdir-sync": "^1.0.6",
-    "simple-html-tokenizer": "^0.4.3",
+    "simple-html-tokenizer": "^0.5.10",
     "slash": "^1.0.0",
     "string-padding": "^1.0.2",
     "string.prototype.endswith": "^0.2.0",
